@@ -1,8 +1,4 @@
-# Boilerplate for Node-Express with sequelize ORM
 
-A boilerplate for any enterprise rest api or service with Node.js, Express and Sequelize ORM for mysql, postgresql or others.
-
-By running this project you will get a production ready environment with all necessary supports for validation, unit testing, socket, redis and many more.
 
 ## Manual Installation
 
