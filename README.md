@@ -4,10 +4,7 @@
 
 Clone the repo:
 
-```bash
-git clone https://github.com/kazi-naimul/node-express-mysql-boilerplate
-cd node-express-mysql-boilerplate
-```
+
 
 Install the dependencies:
 
